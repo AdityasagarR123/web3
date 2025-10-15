@@ -1,3 +1,7 @@
+this is my transaction hash 
+0xd45e2d35c7662845013f1a035b24486c2a36ae91f08b5d5592a33423967daedc
+
+
 Sentiment-Weighted Voting Smart Contract
 This Solidity smart contract implements an innovative voting system where the final outcome of a proposal is influenced by a dynamic, external sentiment score. It's designed to model a hybrid governance system where direct democratic voting is weighted by the broader public or community sentiment.
 
